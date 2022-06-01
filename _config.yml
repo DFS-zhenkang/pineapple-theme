@@ -10,6 +10,7 @@ github: "https://github.com/"
 
 # Site config
 baseurl: "/pineapple"
+url: "https://dfs-zhenkang.github.io"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
