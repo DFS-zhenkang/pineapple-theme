@@ -9,8 +9,8 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-baseurl: "/pineapple-theme"
-url: "https://dfs-zhenkang.github.io"
+baseurl: ""
+url: "https://dfs-zhenkang.github.io/pineapple-theme"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
